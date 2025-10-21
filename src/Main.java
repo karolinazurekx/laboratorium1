@@ -24,5 +24,9 @@ public class Main {
             // for you, but you can always add more by pressing <shortcut actionId="ToggleLineBreakpoint"/>.
             System.out.println("i = " + i);
         }
+
+        //zmiana1
+        //zmiana2
+        //zmiana3
     }
 }
