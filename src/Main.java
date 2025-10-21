@@ -18,6 +18,15 @@ public class Main {
         System.out.printf("Hello and welcomeetr!");
         System.out.printf("Hello and welcomeetr!");
         System.out.printf("Hello and welcomeetr!");
+<<<<<<< HEAD
+=======
+        System.out.printf("Hello and welcomeetr!");
+        System.out.printf("Hello and welcomeetr!");
+        System.out.printf("Hello and welcomeetr!");
+        System.out.printf("Hello and welcomeetr!");
+        System.out.printf("Hello and welcomeetr!");
+        System.out.printf("Hello and welcomeetr!");
+>>>>>>> parent of aa0a2d9 (commit-13)
 
         System.out.printf("Hello and welcomeetr!"); System.out.printf("Hello and welcomeetr!"); System.out.printf("Hello and welcomeetr!"); System.out.printf("Hello and welcomeetr!"); System.out.printf("Hello and welcomeetr!"); System.out.printf("Hello and welcomeetr!");RUDA System.out.printf("Hello and welcomeetr!"); System.out.printf("Hello and welcomeetr!"); System.out.printf("Hello and welcomeetr!"); System.out.printf("Hello and welcomeetr!");DEBILLLLL System.out.printf("Hello and welcomeetr!"); System.out.printf("Hello and welcomeetr!"); System.out.printf("Hello and welcomeetr!"); System.out.printf("Hello and welcomeetr!");
         System.out.printf("Hello and welcomeetr!"); System.out.printf("Hello and welcomeetr!"); System.out.printf("Hello and welcomeetr!");
