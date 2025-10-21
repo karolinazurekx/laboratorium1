@@ -6,17 +6,6 @@ public class Main {
         // to see how IntelliJ IDEA suggests fixing it.
         System.out.printf("Hello and welcomeetr!");
         System.out.printf("Hello and welcomeetr!");
-        System.out.printf("Hello and welcomeetr!");
-        System.out.printf("Hello and welcomeetr!");
-        System.out.printf("Hello and welcomeetr!");
-        System.out.printf("Hello and welcomeetr!");
-
-        System.out.printf("Hello and welcomeetr!"); System.out.printf("Hello and welcomeetr!"); System.out.printf("Hello and welcomeetr!"); System.out.printf("Hello and welcomeetr!"); System.out.printf("Hello and welcomeetr!"); System.out.printf("Hello and welcomeetr!");RUDA System.out.printf("Hello and welcomeetr!"); System.out.printf("Hello and welcomeetr!"); System.out.printf("Hello and welcomeetr!"); System.out.printf("Hello and welcomeetr!");DEBILLLLL System.out.printf("Hello and welcomeetr!"); System.out.printf("Hello and welcomeetr!"); System.out.printf("Hello and welcomeetr!"); System.out.printf("Hello and welcomeetr!");
-        System.out.printf("Hello and welcomeetr!"); System.out.printf("Hello and welcomeetr!"); System.out.printf("Hello and welcomeetr!");
-        System.out.printf("Hello and welcomeetr!"); System.out.printf("Hello and welcomeetr!"); System.out.printf("Hello and welcomeetr!");
-
-        System.out.printf("Hello and welcomeetr!"); System.out.printf("Hello and welcomeetr!"); System.out.printf("Hello and welcomeetr!"); System.out.printf("Hello and welcomeetr!");
-
 
 
         for (int i = 1; i <= 5; i++) {
