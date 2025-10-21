@@ -10,6 +10,14 @@ public class Main {
         System.out.printf("Hello and welcomeetr!");
         System.out.printf("Hello and welcomeetr!");
         System.out.printf("Hello and welcomeetr!");
+        System.out.printf("Hello and welcomeetr!");
+        System.out.printf("Hello and welcomeetr!");
+        System.out.printf("Hello and welcomeetr!");
+        System.out.printf("Hello and welcomeetr!");
+        System.out.printf("Hello and welcomeetr!");
+        System.out.printf("Hello and welcomeetr!");
+        System.out.printf("Hello and welcomeetr!");
+        System.out.printf("Hello and welcomeetr!");
 
         System.out.printf("Hello and welcomeetr!"); System.out.printf("Hello and welcomeetr!"); System.out.printf("Hello and welcomeetr!"); System.out.printf("Hello and welcomeetr!"); System.out.printf("Hello and welcomeetr!"); System.out.printf("Hello and welcomeetr!");RUDA System.out.printf("Hello and welcomeetr!"); System.out.printf("Hello and welcomeetr!"); System.out.printf("Hello and welcomeetr!"); System.out.printf("Hello and welcomeetr!");DEBILLLLL System.out.printf("Hello and welcomeetr!"); System.out.printf("Hello and welcomeetr!"); System.out.printf("Hello and welcomeetr!"); System.out.printf("Hello and welcomeetr!");
         System.out.printf("Hello and welcomeetr!"); System.out.printf("Hello and welcomeetr!"); System.out.printf("Hello and welcomeetr!");
